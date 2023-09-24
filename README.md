@@ -1,2 +1,2 @@
-# goit-markup-hw-05
-Code for Module 5 Lesson 9 Homework 5
+# goit-markup-hw-06
+Code for Module 6 Lesson 11-12 Homework 6
