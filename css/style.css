@@ -892,6 +892,7 @@ input, textarea{
     border: 1px solid var(--iris);
 }
 
+.form-label:hover svg,
 .form-label:focus-within svg{
     fill: var(--iris);
 }
